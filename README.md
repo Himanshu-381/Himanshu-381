@@ -33,9 +33,9 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 🔭 I’m currently working on **Kotlin Android**
+- 🔭 I’m currently working on **Kotlin Android Jetpack Compose**
 
-- 🌱 I’m currently learning **Jetpack Compose**
+- 🌱 I’m currently learning **Kotlin Multiplatform (KMP)**
 
 - 💬 Ask me about **Android or any tech-related stuff**
 
